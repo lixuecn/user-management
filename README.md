@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+
     <link rel="stylesheet" href="bootstrap.min.css">
     <script src="jquery-3.2.1.min.js"></script>
     <script src="bootstrap.min.js"></script>
@@ -39,8 +35,6 @@
             })
         }
     </script>
-</head>
-<body>
     <div class="container">
         <h2 class="text-center">添加用户</h2>
         <form class="form-horizontal">
@@ -113,6 +107,4 @@
             </div>
         </div>
     </div>
-</body>
 
-</html>
